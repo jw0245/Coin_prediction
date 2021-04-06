@@ -1,5 +1,5 @@
 # Coin_prediction
-알트코인 및 코스피 종목에 대한 가격 예측에 대한 프로젝트입니다.
+LSTM 알고리즘을 이용하여 알트코인 및 코스피 종목에 대한 가격 예측에 대한 프로젝트입니다.
 # 개발환경
 * Anaconda
 * Jupyter Notebook
